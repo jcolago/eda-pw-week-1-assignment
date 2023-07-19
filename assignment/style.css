@@ -9,3 +9,32 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+
+body{
+    background: #f1c40f;
+}
+
+header, footer{
+    background: #0b82c1;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+p{
+    color: whitesmoke;
+    font-style: italic;
+}
+
+img{
+    border: solid black 10px;
+    max-width: 50%;
+    height: 50%;
+}
+
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
